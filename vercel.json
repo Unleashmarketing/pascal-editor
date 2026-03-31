@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd apps/editor && bun run build",
+  "installCommand": "bun install",
+  "outputDirectory": "apps/editor/.next",
+  "framework": "nextjs",
+  "rootDirectory": "."
+}
