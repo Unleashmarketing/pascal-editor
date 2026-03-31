@@ -19,7 +19,8 @@
     "release:major": "gh workflow run release.yml -f package=both -f bump=major"
   },
   "dependencies": {
-    "portless": "^0.4.2"
+    "portless": "^0.4.2",
+    "next": "16.2.1"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.4.6",
