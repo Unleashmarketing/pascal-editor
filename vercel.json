@@ -3,5 +3,4 @@
   "installCommand": "bun install",
   "outputDirectory": "apps/editor/.next",
   "framework": "nextjs",
-  "rootDirectory": "."
 }
