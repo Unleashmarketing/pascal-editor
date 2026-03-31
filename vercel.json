@@ -1,5 +1,5 @@
 {
-  "buildCommand": "bun install && TURBO_REMOTE_ONLY=false turbo run build --no-cache && ls -la apps/editor/.next",
+  "buildCommand": "bun install && turbo run build --cache=local:rw && ls -la apps/editor/.next",
   "outputDirectory": "apps/editor/.next",
   "installCommand": "echo 'skip'"
 }
