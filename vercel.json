@@ -1,4 +1,4 @@
 {
-  "buildCommand": "bun install && cd apps/editor && bun run build",
+  "buildCommand": "bun install && bun run build",
   "outputDirectory": "apps/editor/.next"
 }
