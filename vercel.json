@@ -1,4 +1,5 @@
 {
   "buildCommand": "bun install && bun run build",
-  "outputDirectory": "apps/editor/.next"
+  "outputDirectory": "apps/editor/.next",
+  "installCommand": "echo 'skip'"
 }
